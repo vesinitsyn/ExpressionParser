@@ -1,0 +1,1 @@
+java -jar executable/${artifactId}-${version}.jar "$1"

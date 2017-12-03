@@ -1,0 +1,1 @@
+java -jar executable/Parser-1.0-SNAPSHOT.jar "$1"
